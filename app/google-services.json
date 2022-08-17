@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479163754058",
+    "project_id": "login-app-a9c27",
+    "storage_bucket": "login-app-a9c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479163754058:android:5ad871a1d7720c761d28b3",
+        "android_client_info": {
+          "package_name": "com.swastik.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479163754058-fiiu9u7lru3t8gj2nueg9qpb4r4euub2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8l6DOT3toHBToa3c-3V3qTklLZrcgsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479163754058-fiiu9u7lru3t8gj2nueg9qpb4r4euub2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
